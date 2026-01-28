@@ -1,9 +1,9 @@
 {
-  "name": "Project4",
+  "name": "project4",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Yuna-2007.github.io/Project4",
+  "homepage": "https://github.com/Yuna-2007/Project4.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
